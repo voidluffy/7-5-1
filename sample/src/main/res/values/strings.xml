@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ExpandableTextView Demo</string>
+    <string name="action_settings">Settings</string>
+    <string name="dummy_text1">//第五个参数pivotXType为动画在X轴相对于物件位置类型//第六个参数pivotXValue为动画相对于物件的X坐标的开始位置//第七个参数pivotXType为动画在Y轴相对于物件位置类型//第八个参数pivotYValue为动画相对于物件的Y坐标的开始位置//第五个参数pivotXType为动画在X轴相对于物件位置类型//第六个参数pivotXValue为动画相对于物件的X坐标的开始位置//第七个参数pivotXType为动画在Y轴相对于物件位置类型//第八个参数pivotYValue为动画相对于物件的Y坐标的开始位置</string>
+    <string name="dummy_text2">//第五个参数pivotXType为动画在X轴相对于物件位置类型//第六个参数pivotXValue为动画相对于物件的X坐标的开始位置//第七个参数pivotXType为动画在Y轴相对于物件位置类型//第八个参数pivotYValue为动画相对于物件的Y坐标的开始位置//第五个参数pivotXType为动画在X轴相对于物件位置类型//第六个参数pivotXValue为动画相对于物件的X坐标的开始位置//第七个参数pivotXType为动画在Y轴相对于物件位置类型//第八个参数pivotYValue为动画相对于物件的Y坐标的开始位置</string>
+    <string name="title_activity_demo">Demo</string>
+    <string name="title_demo1">In ScrollView</string>
+    <string name="title_demo2">In ListView</string>
+
+</resources>
